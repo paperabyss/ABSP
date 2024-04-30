@@ -1,0 +1,1 @@
+This is an example text doc used for practicing copying and moving files in python. Not much happening in here.
